@@ -53,7 +53,7 @@ pyinstaller --noconfirm --onedir --windowed --add-data "public_key.pem;." app.py
 Note: Make sure to place a valid license.key file in the output folder next to app.exe before launching the application.
 
 🎥 Video Tutorial
-Watch the step-by-step tutorial on YouTube: [Link to Your YouTube Video]
+Watch the step-by-step tutorial on YouTube: https://youtu.be/6_3CW9PiQ8U
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
